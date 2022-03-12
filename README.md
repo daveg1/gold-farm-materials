@@ -1,4 +1,5 @@
 # Gold Farm Materials (1.15+):
+Tilde means less than 1 stack.
 | Item | Total | Stacks |
 | ---- | ----- | ------ |
 | Magma blocks | 5707 | 90 |
